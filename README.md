@@ -40,4 +40,4 @@ Terima kasih telah menggunakan Fibonacci App!
 
 ![alt text](/Screenshot%20(14).png)
 
-<h1 align="center">MAACIH </h1>
+<h1 align="center">MAACIH 💟:</h1>
